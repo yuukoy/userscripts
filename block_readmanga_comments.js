@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Blocks annoying comments on readmanga.ru, mintmanga.com
-// @author       Me
+// @author       Yuuko Yonemura
 // @match        http://readmanga.me/*
 // @match        http://mintmanga.com/*
 // @grant        none
