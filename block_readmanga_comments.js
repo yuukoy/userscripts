@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Blocks annoying comments on readmanga.ru, mintmanga.com
 // @author       Me
-// @match        http://readmanga.ru/*
+// @match        http://readmanga.me/*
 // @match        http://mintmanga.com/*
 // @grant        none
 // ==/UserScript==
